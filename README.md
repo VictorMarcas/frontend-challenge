@@ -15,7 +15,7 @@ $ npm install
 ```
 
 ## Mode Development
-config file `webpack.dev.js`
+config file `package.json`
 ``` bash
 $ npm run dev
 ```
